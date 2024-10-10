@@ -1,2 +1,2 @@
-# Magic
+# Project M
 prototype project M
